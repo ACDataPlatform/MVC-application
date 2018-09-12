@@ -17,7 +17,7 @@ namespace MVC_application.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "AC DataPlatform description page.";
+            ViewData["Message"] = "AC DataPlatform 1 description page.";
 
             return View();
         }
